@@ -10,7 +10,6 @@ Este trabajo se ha llevado a cabo dentro de la asignatura Visualización de Dato
 * SimpleVoronoi.ipynb: Archivo Jupyter Notebook con una realización sencialla del diagrama de Voronoi utilizando scipy.spatial.Voronoi. 
 
 # Recursos
-  -   https://www.abc.es/ciencia/abci-diagrama-voronoi-forma-matematica-dividir-mundo-201704241101_noticia.html
+  - https://www.abc.es/ciencia/abci-diagrama-voronoi-forma-matematica-dividir-mundo-201704241101_noticia.html
   - https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.voronoi_plot_2d.html#scipy.spatial.voronoi_plot_2d
-  - https://stackoverflow.com/questions/42843801/voronoi-plot-2d-in-scipy-difference-between-dashed-lines-and-solid-lines-and-w
   - https://www.daniweb.com/programming/computer-science/tutorials/520314/how-to-make-quality-voronoi-diagrams
