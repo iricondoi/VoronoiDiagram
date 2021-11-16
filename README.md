@@ -5,9 +5,12 @@ Este trabajo se ha llevado a cabo dentro de la asignatura Visualización de Dato
 * Tile Grid Map: Recurso disponible en https://public.tableau.com/app/profile/itziar.ricondo/viz/PIBEuskadiporComarcas2018/Dashboard?publish=yes
 * Voronoi diagram: Recurso disponible en este repositorio de Github
 
+# Autora
+Itziar Ricondo (iricondoi@uoc.edu)
+
 # Ficheros del código fuente
 
-* SimpleVoronoi.ipynb: Archivo Jupyter Notebook con una realización sencilla del diagrama de Voronoi utilizando scipy.spatial.Voronoi. 
+* SimpleVoronoi.ipynb: Archivo Jupyter Notebook con una realización del diagrama de Voronoi utilizando scipy.spatial.Voronoi.
 
 # Recursos
   - https://www.abc.es/ciencia/abci-diagrama-voronoi-forma-matematica-dividir-mundo-201704241101_noticia.html
