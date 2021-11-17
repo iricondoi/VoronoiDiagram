@@ -3,7 +3,7 @@ Este trabajo se ha llevado a cabo dentro de la asignatura Visualización de Dato
 
 * Heatmap: Mediante Tableau. Recurso disponible en https://public.tableau.com/app/profile/itziar.ricondo/viz/CasosCOVIDporvarianteysemana/Dashboard2?publish=yes
 * Tile Grid Map: Recurso disponible en https://public.tableau.com/app/profile/itziar.ricondo/viz/PIBEuskadiporComarcas2018/Dashboard?publish=yes
-* Voronoi diagram: Recurso disponible en este repositorio de Github
+* Voronoi diagram: Recurso disponible en este repositorio de Github, https://github.com/iricondoi/VoronoiDiagram/
 
 # Autora
 Itziar Ricondo (iricondoi@uoc.edu)
